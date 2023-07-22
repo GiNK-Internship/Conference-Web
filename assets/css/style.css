@@ -1444,3 +1444,47 @@ above header
 .alert {
   margin-bottom: 0;
 }
+
+/* Warna background untuk section "paper" */
+
+
+.container-paper {
+  background-color: #f3f3f3;
+  /* Warna background untuk container "container-paper" */
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* Styling untuk elemen "ul" di dalam ".container-paper" */
+.container-paper ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Styling untuk elemen "li" di dalam ".container-paper ul" */
+.container-paper li {
+  margin-bottom: 5px;
+}
+
+
+
+/* Styling untuk elemen dengan kelas "container" */
+.container-call-paper {
+  /* Warna background untuk container "container" */
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+    background-color: #f8f8f8;
+}
+
+/* Styling untuk elemen "ul" di dalam ".container .row .col" */
+.container .row .col ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Styling untuk elemen "li" di dalam ".container .row .col ul" */
+.container .row .col li {
+  list-style-type: none;
+  margin-bottom: 5px;
+}
